@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Minesweeper",
+            "request": "launch",
+            "mainClass": "application.Minesweeper",
+            "projectName": "minesweeper_854b4d63",
+            "vmArgs": "--module-path \"./lib\"  --add-modules=javafx.controls,javafx.fxml,javafx.media"
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+Total number of mines: 40.
+Total number of attempts (left clicks): 5.
+Total game time: 22 secs.
+Winner: PC.
